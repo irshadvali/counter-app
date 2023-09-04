@@ -1,0 +1,26 @@
+{
+  "name": "my-counter-sept",
+  "version": "1.0.1",
+  "description": "counter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irshadvali/counter-app.git"
+  },
+  "keywords": [
+    "counter"
+  ],
+  "author": "Irshad Vali",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "18.0.0",
+    "react-native": "0.70.0"
+  },
+  "bugs": {
+    "url": "https://github.com/irshadvali/counter-app/issues"
+  },
+  "homepage": "https://github.com/irshadvali/counter-app#readme"
+}
